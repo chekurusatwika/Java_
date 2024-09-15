@@ -1,5 +1,5 @@
 package com.javaPrograming.day2conditionalStatements.task;
-
+//looping Statements
 public class LoopingStatements {
     public static void main(String[] args) {
         int val = 5;
