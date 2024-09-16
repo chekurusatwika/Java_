@@ -1,5 +1,5 @@
 package com.javaPrograming.day3codingQuestions.exercise;
-
+//sum of even digits
 import java.util.Scanner;
 
 public class SumOfEvenDigits {
