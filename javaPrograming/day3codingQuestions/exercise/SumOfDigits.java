@@ -1,5 +1,5 @@
 package com.javaPrograming.day3codingQuestions.exercise;
-
+//sum of digits
 import java.util.Scanner;
 
 public class SumOfDigits {
