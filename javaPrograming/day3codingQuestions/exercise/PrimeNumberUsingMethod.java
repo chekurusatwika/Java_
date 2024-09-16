@@ -1,6 +1,7 @@
 package com.javaPrograming.day3codingQuestions.exercise;
 
 import java.util.Scanner;
+//prime number using methods
 
 public class PrimeNumberUsingMethod {
     public static void main(String[] args) {
