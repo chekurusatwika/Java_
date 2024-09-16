@@ -1,5 +1,5 @@
 package com.javaPrograming.day3codingQuestions.exercise;
-
+//even or odd 
 import java.util.Scanner;
 
 public class EvenOrOdd {
