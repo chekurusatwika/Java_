@@ -6,6 +6,7 @@ public class DoWhile {
         do {
             val++;
             System.out.println(val);
+            System.out.println("Inside Do-While Loop");
         }while(val < 15);
     }
 }
